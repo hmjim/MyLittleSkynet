@@ -1,7 +1,7 @@
 # 🤖 OpenClaw Lite
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/your-username/openclaw-lite/main/assets/logo.png" width="300" alt="OpenClaw Lite Logo">
+  <img src="./logo.png" width="300" alt="OpenClaw Lite Logo">
 </p>
 
 <p align="center">
@@ -60,11 +60,12 @@
    npm start
    ```
 
-## 🌟 Usage Examples
-
 - *"Search for the latest AI news and send me a summary report as a .txt file."*
 - *"Open Google, search for AAPL stock price, take a screenshot and analyze the chart."*
 - *"Calculate the first 50 prime numbers using Python and send me the output."*
+
+> [!TIP]
+> **Search Blocked?** If Google shows a CAPTCHA, try using a different search engine or use 'browse_web' to navigate directly to news sites.
 
 ## 📜 License
 
